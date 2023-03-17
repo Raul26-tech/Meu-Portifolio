@@ -11,7 +11,7 @@ export default function Projects() {
                         </span>
                     </div>
                     <h2 className="text-slate-600 text-4xl font-bold mt-3 mb-4 text-center md:text-left">
-                        Principais projetos
+                        Principais Projetos
                     </h2>
                     <div className="w-full flex flex-col justify-center items-center md:flex-row md:items-center md:space-x-8 md:space-y-2 mt-10 p-6 rounded-md shadow-xl bg-white">
                         <div className="w-[15rem] md:w-[20rem] bg-slate-white rounded-md shadow-xl p-6 hover:-translate-y-2 hover:duration-300 cursor-pointer">
@@ -95,6 +95,7 @@ export default function Projects() {
                             <a
                                 href="https://github.com/Raul26-tech"
                                 target="_blank"
+                                rel="noreferrer"
                             >
                                 Saiba mais
                             </a>

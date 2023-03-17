@@ -19,17 +19,19 @@ export default function About() {
                         Sobre
                     </h2>
                     <p className="mt-3 text-slate-500">
-                        Sou um jovem desenvolvedor que entrei nesse mundo aos 17
-                        anos. Sempre fui muito curioso e gosto de entender como
-                        as coisas funcionam, esse extinto se aflorou ainda mais
-                        no ano de 2017 quanto fiz meu primeiro curso técnico em
-                        Redes de computadores na Etec de Embu das artes, mais
-                        tarde, no ano de 2020 fiz Desenvolvimento de sistemas na
-                        mesma instituição.
-                        <br /> De lá pra cá, veio aprimorando meus conhecimento
-                        em desenvolvimento Web, atualmente trabalho como
-                        Desenvolvedor Front End e faço graduação em Análise de
-                        Desenvolvimento.
+                        Sou um jovem desenvolvedor que teve seu primeiro contato
+                        com o mundo do desenvolvimento aos 17 anos.
+                        <br />
+                        Sempre fui muito curioso e gosto de entender como as
+                        coisas funcionam, e esse extinto se aflorou ainda mais
+                        no ano de 2017 quando fiz meu primeiro curso técnico em
+                        Redes de Computadores na Etec de Embu das Artes. <br />
+                        Mais tarde, no ano de 2020, fiz Desenvolvimento de
+                        Sistemas na mesma instituição, e de lá pra cá venho
+                        aprimorando meus conhecimento em Desenvolvimento Web.
+                        <br />
+                        Atualmente trabalho como Desenvolvedor Front End e faço
+                        graduação em Análise e Desenvolvimento de Sistemas.
                     </p>
                 </div>
             </section>

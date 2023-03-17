@@ -7,6 +7,7 @@ import Footer from '../Footer';
 import Home from '../Home';
 import Aos from 'aos';
 import 'aos/dist/aos.css';
+import Contact from '../Contact';
 
 export default function Layout() {
     Aos.init();
@@ -51,6 +52,14 @@ export default function Layout() {
                 data-aos-anchor-placement="top-center"
             >
                 <Projects />
+            </div>
+            <div
+                data-aos="fade-right"
+                data-aos-delay="200"
+                data-aos-duration="1000"
+                data-aos-anchor-placement="top-center"
+            >
+                <Contact />
             </div>
             <Footer />
         </>

@@ -17,40 +17,55 @@ export default function Works() {
                     </h2>
 
                     <div className="w-full md:flex justify-center items-start mt-10 p-3 rounded-md shadow-md bg-white">
-                        <Experencies textButton="Asisto tecnologia">
-                            <span className="text-lg font-bold">
+                        <Experencies textButton="Asisto Tecnologia">
+                            <span className="text-lg font-bold text-theme-blue">
                                 2022 - Atual
                             </span>
+
                             <p>
-                                Trabalho atuando como Desenvolvedor Front-end,
-                                desenvolvendo soluções para aplicações Web.
+                                Atuo como Desenvolvedor Front-end, desenvolvendo
+                                soluções para aplicações Web com diversas
+                                tecnologias, como por exemplo HTML, CSS,
+                                JAVASCRIPT, TAILWINDCSS, REACT, TYPESCRIPT.
                                 <br />
-                                Atuando com diversas tecnologias com Html,css3,
-                                Tailwindcss, Javascript, React, Typescript.
-                                <br />
+                            </p>
+                            <p>
                                 Desde que adentrei tenho aprendido muito, não só
-                                os conhecimentos técnicos mas também, sobre o
+                                os conhecimentos técnicos mas também sobre o
                                 mercado e regra de negócio.
-                                <br /> Asisto é uma empresa de desenvolvimento
-                                de software especializada no ramo moveleiro.
+                            </p>
+                            <br />
+                            <p>
+                                <span>
+                                    <a
+                                        href="https://asisto.com.br/"
+                                        target="_blank"
+                                        rel="noreferrer"
+                                        className="text-theme-blue mr-1"
+                                    >
+                                        Asisto
+                                    </a>
+                                </span>
+                                é uma empresa de desenvolvimento de software
+                                especializada no ramo moveleiro.
                                 <br />
                             </p>
                         </Experencies>
 
-                        <Experencies textButton="Drean tecnology">
-                            <span className="text-lg font-bold">
-                                2021 - Outubro - 2021
+                        <Experencies textButton="Dream Tecnology">
+                            <span className="text-lg font-bold text-theme-blue">
+                                Setembro 2021 - Outubro 2021
                             </span>
                             <p>
                                 Meu primeiro trabalho na área, onde atuei como
-                                desenvolvedor front-end freelance.
+                                Desenvolvedor Front-end Freelance.
                                 <br />
                                 Trabalhei em alguns projetos onde tive o
-                                primeiro contato com o mundo do desenvolvimento.
-                                Onde realizava a manutenção de aplicações Web
-                                <br />
-                                Atuei com tecnologias como Html, Javascript,
-                                Styled-Component, css, React, React Native.
+                                primeiro contato com o mundo do desenvolvimento,
+                                onde realizava a criação e manutenção de
+                                aplicações Web utilizando técnologias como HTML,
+                                CSS, JAVASCRIPT, STYLED-COMPONENTS, REACT,
+                                REACT-NATIVE.
                                 <br />
                             </p>
                         </Experencies>
