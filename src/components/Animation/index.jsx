@@ -14,7 +14,7 @@ const User = ({ children }) => {
 export default function Animation() {
     return (
         <div className="w-full h-[20rem] flex items-center justify-center p-12">
-            <div className="w-[50rem] flex justify-between">
+            <div className="w-[50rem] flex justify-between items-center">
                 <div className="">
                     <TypeIt
                         options={{

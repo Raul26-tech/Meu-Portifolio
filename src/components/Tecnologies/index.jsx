@@ -20,11 +20,11 @@ export default function Tecnologies() {
                         </span>
                     </div>
                     <h2 className="text-slate-600 text-4xl font-bold mt-3 mb-4 text-center md:text-left">
-                        Linguagens e tecnologias
+                        Linguagens e Tecnologias
                     </h2>
                     <div className="flex justify-center items-center md:justify-start">
                         <span className="text-slate-600">
-                            Tecnologias que eu tenho contato
+                            Tecnologias que tenho contato
                         </span>
                     </div>
                     <div className="w-full flex flex-col justify-center items-center md:flex-row md:flex-wrap md:items-center md:space-x-8 md:space-y-2 mt-10 p-6 rounded-md shadow-xl bg-white">
