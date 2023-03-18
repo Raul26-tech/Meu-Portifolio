@@ -13,12 +13,12 @@ export default function Projects() {
                     <h2 className="text-slate-600 text-4xl font-bold mt-3 mb-4 text-center md:text-left">
                         Principais Projetos
                     </h2>
-                    <div className="w-full flex flex-col justify-center items-center md:flex-row md:items-center md:space-x-8 md:space-y-2 mt-10 p-6 rounded-md shadow-xl bg-white">
+                    <div className="w-full flex flex-col justify-center items-center md:flex-row md:items-center md:space-x-8 md:space-y-2 mt-10 p-1 rounded-md shadow-xl bg-white">
                         <div className="w-[15rem] md:w-[20rem] bg-slate-white rounded-md shadow-xl p-6 hover:-translate-y-2 hover:duration-300 cursor-pointer">
                             <div className="w-full h-20 flex justify-center items-center text-theme-blue text-base">
                                 <h2 className="text-2xl font-bold">As-money</h2>
                             </div>
-                            <div className="w-full flex md:h-[20rem] flex-col p-3 border-[1px] border-l-theme-blue rounded-md">
+                            <div className="w-full md:w-full flex md:h-[20rem] md:overflow-x-auto flex-col p-3 border-[1px] border-l-theme-blue rounded-md">
                                 <p className="text-slate-600 text-sm">
                                     O As-money é um projeto que faz uma pequena
                                     gerencia de finanças, onde nós podemos
@@ -47,7 +47,7 @@ export default function Projects() {
                                     Projeto React
                                 </h2>
                             </div>
-                            <div className="w-full flex h-[20rem] flex-col p-3 border-[1px] border-l-theme-blue rounded-md">
+                            <div className="w-full md:w-full flex h-[20rem] md:overflow-x-auto flex-col p-3 border-[1px] border-l-theme-blue rounded-md">
                                 <p className="text-slate-600 text-sm">
                                     Meu primeiro projeto desenvolvido com React,
                                     onde eu estava dando os primeiros passos,
@@ -72,7 +72,7 @@ export default function Projects() {
                                     Netflix Clone
                                 </h2>
                             </div>
-                            <div className="w-full flex flex-col h-[20rem] p-3 border-[1px] border-l-theme-blue rounded-md">
+                            <div className="w-full md:w-full flex flex-col h-[20rem] md:overflow-x-auto p-3 border-[1px] border-l-theme-blue rounded-md">
                                 <p className="text-slate-600 text-sm">
                                     Clone da Netflix, coloco entre os principais
                                     pois me deu a base de uma boa estrutura HTML

@@ -16,6 +16,10 @@ export default function Animation() {
         <div className="w-full h-[20rem] flex items-center justify-center p-12">
             <div className="w-[50rem] flex justify-between items-center">
                 <div className="">
+                    <span className="text-theme-blue text-lg">
+                        Olá, seja bem-vindo(a) ao meu perfil !
+                    </span>
+                    <br />
                     <TypeIt
                         options={{
                             loop: true,
@@ -23,11 +27,7 @@ export default function Animation() {
                             nextStringDelay: 200,
                         }}
                     >
-                        <span className="text-theme-blue text-lg">
-                            Olá, seja bem-vindo(a) ao meu perfil, eu sou
-                        </span>
-                        <br />
-                        <User>Raul Santos</User>
+                        <User>Eu sou Raul Santos</User>
                         <br />
                         <User>Desenvolvedor </User>
                         <span className="text-theme-blue font-bold text-[2.5rem]">
