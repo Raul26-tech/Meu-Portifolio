@@ -7,7 +7,7 @@ export default function Home() {
         <>
             <div className="w-full h-screen flex flex-col overflow-y-auto">
                 <Header />
-                <div className="w-full h-[30rem] flex flex-col bg-gradient-to-r from-gray-800 to-theme-blue-dark-gray-100">
+                <div className="w-full h-[50rem] md:h-[35rem] flex justify-start items-center flex-col bg-gradient-to-r from-gray-800 to-theme-blue-dark-gray-100">
                     <Animation />
                 </div>
             </div>
