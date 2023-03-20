@@ -17,6 +17,23 @@ export default function Works() {
                     </h2>
 
                     <div className="w-full md:flex justify-center items-start mt-10 p-3 rounded-md shadow-md bg-white">
+                        <Experencies textButton="Dream Tecnology">
+                            <span className="text-lg font-bold text-theme-blue">
+                                Setembro 2021 - Outubro 2021
+                            </span>
+                            <p>
+                                Meu primeiro trabalho na área, onde atuei como
+                                Desenvolvedor Front-end Freelance.
+                                <br />
+                                Trabalhei em alguns projetos onde tive o
+                                primeiro contato com o mundo do desenvolvimento,
+                                onde realizava a criação e manutenção de
+                                aplicações Web utilizando técnologias como HTML,
+                                CSS, JAVASCRIPT, STYLED-COMPONENTS, REACT,
+                                REACT-NATIVE.
+                                <br />
+                            </p>
+                        </Experencies>
                         <Experencies textButton="Asisto Tecnologia">
                             <span className="text-lg font-bold text-theme-blue">
                                 2022 - Atual
@@ -48,24 +65,6 @@ export default function Works() {
                                 </span>
                                 é uma empresa de desenvolvimento de software
                                 especializada no ramo moveleiro.
-                                <br />
-                            </p>
-                        </Experencies>
-
-                        <Experencies textButton="Dream Tecnology">
-                            <span className="text-lg font-bold text-theme-blue">
-                                Setembro 2021 - Outubro 2021
-                            </span>
-                            <p>
-                                Meu primeiro trabalho na área, onde atuei como
-                                Desenvolvedor Front-end Freelance.
-                                <br />
-                                Trabalhei em alguns projetos onde tive o
-                                primeiro contato com o mundo do desenvolvimento,
-                                onde realizava a criação e manutenção de
-                                aplicações Web utilizando técnologias como HTML,
-                                CSS, JAVASCRIPT, STYLED-COMPONENTS, REACT,
-                                REACT-NATIVE.
                                 <br />
                             </p>
                         </Experencies>

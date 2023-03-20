@@ -23,7 +23,7 @@ export default function About() {
                         com o mundo do desenvolvimento aos 17 anos.
                         <br />
                         Sempre fui muito curioso e gosto de entender como as
-                        coisas funcionam, e esse extinto se aflorou ainda mais
+                        coisas funcionam, e esse instinto se aflorou ainda mais
                         no ano de 2017 quando fiz meu primeiro curso técnico em
                         Redes de Computadores na Etec de Embu das Artes. <br />
                         Mais tarde, no ano de 2020, fiz Desenvolvimento de
